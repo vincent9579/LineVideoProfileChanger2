@@ -5,7 +5,7 @@
 # Do not use it for profit
 -------------
 *How to install:
-
+'''
 pip install datetime
 
 pip install bs4
@@ -16,9 +16,13 @@ pip install humanize
 
 pip install --upgrade youtube_dl
 
+pip install you-get
+
 git clone https://github.com/vincent9579/LineVideoProfileChanger2.git
 
 python x.py
+
+'''
 
 _運行的時候少什麼套件就補什麼_
 
