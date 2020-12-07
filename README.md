@@ -1,8 +1,7 @@
 # LineVideoProfileChanger
 作者:蒼
 -------------
-# 請勿拿去做任何營利用途
-# Do not use it for profit
+## 網址登入失效
 -------------
 *How to install:
 ```
